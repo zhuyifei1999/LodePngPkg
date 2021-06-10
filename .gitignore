@@ -1,0 +1,6 @@
+LodePngPkg/lodepng.c
+
+# Tianocore
+Build/
+Conf/
+MdePkg
